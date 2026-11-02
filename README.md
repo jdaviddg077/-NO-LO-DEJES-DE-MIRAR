@@ -5,3 +5,4 @@ This game is a personal challenge that I will continue working on throughout the
 <img width="1359" height="785" alt="image" src="https://github.com/user-attachments/assets/398c2973-7881-43ce-8eb0-593abb425c78" />
 <img width="1338" height="779" alt="image" src="https://github.com/user-attachments/assets/71ded351-8675-430c-a925-9a2bdbdbabb1" />
 This time, I approached the README file a bit differently: instead of detailing what I did each day, I shared my experience regarding the process. Honestly, I hadn’t realized just how powerful Roblox Studio is when it comes to graphics.
+HOW TO PLAY: Click this link and start playing: https://www.roblox.com/es/games/135960928374557/no-dejes-de-mirar
